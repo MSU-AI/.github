@@ -1,0 +1,3 @@
+- 👋 Hello, welcome to the official GitHub page of the Michigan State University Artificial Intelligence Club.
+- 👀 We are an Student Organization inspired by the evolution of Artificial Intelligence and thrilled by its potential.
+- 📫 If interested, please visit our webpage.
